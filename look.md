@@ -1,4 +1,4 @@
-```markdown
+
 # Creating a Genomics Nextflow Pipeline on a University HPC Cluster
 
 ## Introduction
